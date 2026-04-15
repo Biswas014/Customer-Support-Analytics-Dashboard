@@ -67,7 +67,7 @@ Thursday is peak, Sunday is the opposite. If staffing is uniform across the week
 
 Show what the dashboard looks like. Example: 
 
-https://github.com/Biswas014/Customer-Support-Analytics-Dashboard/blob/main/Customer_Support_Report_Snapshot.PNG
+ ![Dashboard Preview](https://github.com/Biswas014/Customer-Support-Analytics-Dashboard/blob/main/Customer_Support_Report_Snapshot.PNG)
 
 
 
