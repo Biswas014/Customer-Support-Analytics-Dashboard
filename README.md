@@ -24,7 +24,6 @@ A Dummy data ~46,400 calls across 6 months in 2017. The data covers things like 
 •	Business Problem: 
 
 The call centre deal with thousands of interactions daily but often struggle to pinpoint why satisfaction stays low. So I tried to answer questions like: which hours see the most drop-offs, which agents are actually resolving issues efficiently, and where the IVR is completely failing customers.
-The dashboard is built entirely in Excel using Pivot Tables, slicers, and aggregation formulas — no external tools.
 
 •	Goal of the Dashboard:
 
