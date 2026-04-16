@@ -1,4 +1,4 @@
-# Call Centre Support Analytics — Performance, Traffic & Satisfaction Dashboard
+# Call Centre Support Analytics Dashboard
 A dynamic and interactive Excel dashboard to explore customer support data — built around agent performance, call traffic patterns, and priority-based handling.
 
 This dashboard analyzes 46,380 support calls from a mid-sized call centre, surfacing patterns that directly affect customer satisfaction — from agent-level performance gaps to peak traffic days and a completely underutilized IVR system. It's built for operations managers, team leads, or anyone trying to figure out where their support pipeline is breaking down.
@@ -11,7 +11,7 @@ The dashboard was built using the following tools and skills:
 
 •	🔄Pivot Tables - Data summarization for analyzing on category basis.
 
-•	🧮Dynamic formulas (AVERAGEIFS, COUNTIFS) and structured table references for clean, linked visuals. 
+•	🧮Excel Error Handling & Aggregation Formulas and structured table references for clean, linked visuals. 
 
 ## Data source
 
@@ -23,7 +23,7 @@ A Dummy data ~46,400 calls across 6 months in 2017. The data covers things like 
 
 •	Business Problem: 
 
-The call centre deal with thousands of interactions daily but often struggle to pinpoint why satisfaction stays low. So I tried to answer questions like: which hours see the most drop-offs, which agents are actually resolving issues efficiently, and where the IVR is completely failing customers.
+The call centre deals with thousands of interactions daily but often struggle to pinpoint why satisfaction stays low. So I tried to answer questions like: which hours see the most drop-offs, which agents are actually resolving issues efficiently, and where the IVR is completely failing customers.
 
 •	Goal of the Dashboard:
 
@@ -48,7 +48,7 @@ Nearly 1 in 10 callers hung up before reaching an agent. That's roughly 4,174 ca
 
 2. 3.01 out of 5 satisfaction is barely passing
 
-The average sits just above the midpoint. For a company handling 46,380 calls, that's not a small problem — it means the majority of customers are leaving the interaction feeling neutral at best. Worth framing as a baseline that the dashboard helps explain, not just report.
+The average sits just above the midpoint. For a company handling 46,380 calls, that's not a small problem — it means the majority of customers are leaving the interaction feeling neutral.
 
 3. Query types 4 and 5 are struggling
 
@@ -60,7 +60,7 @@ Some agents are resolving calls quickly without dragging out handle time. That's
 
 5. Sunday vs Thursday — the scheduling contrast
 
-Thursday is peak, Sunday is the opposite. If staffing is uniform across the week, the company is simultaneously overstaffed on Sundays and overwhelmed on Thursdays. That's a scheduling fix, not a hiring problem.
+Thursday is peak, Sunday is the opposite. That's a scheduling fix, not a hiring problem.
 
 ## Screenshots / Demos
 
