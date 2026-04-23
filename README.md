@@ -66,7 +66,7 @@ Thursday is peak, Sunday is the opposite. That's a scheduling fix, not a hiring 
 
 Show what the dashboard looks like. Example: 
 
- ![Dashboard Preview](https://github.com/Biswas014/Customer-Support-Analytics-Dashboard/blob/main/Customer_Support_Report_Snapshot.PNG)
+ ![Dashboard Preview](https://github.com/Biswas014/Customer-Support-Analytics-Dashboard/blob/main/Customer_Support_Dashboard_Snapshot.PNG)
 
 
 
