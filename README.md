@@ -1,5 +1,4 @@
 # Call Centre Support Analytics Dashboard
-A dynamic and interactive Excel dashboard to explore customer support data — built around agent performance, call traffic patterns, and priority-based handling.
 
 This dashboard analyzes 46,380 support calls from a mid-sized call centre, surfacing patterns that directly affect customer satisfaction — from agent-level performance gaps to peak traffic days and a completely underutilized IVR system. It's built for operations managers, team leads, or anyone trying to figure out where their support pipeline is breaking down.
 
